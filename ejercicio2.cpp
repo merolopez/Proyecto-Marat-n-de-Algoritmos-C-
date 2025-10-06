@@ -1,5 +1,5 @@
 
-🧩 2. Asignar memoria dinámica para un arreglo
+
 #include <iostream>
 using namespace std;
 
